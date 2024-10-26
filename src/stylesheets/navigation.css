@@ -1,0 +1,7 @@
+.navigation {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 40%;
+}

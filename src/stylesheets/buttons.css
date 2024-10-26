@@ -1,0 +1,46 @@
+.Primary {
+    font-family: ClashDisplay-Semibold;
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #FD256E;
+    padding: 8px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: 0.3s;
+    display: inline-block;
+}
+
+.Primary:hover {
+    background-color: #E6205A;
+}
+
+.Secondary {
+    font-family: ClashDisplay-Medium;
+    text-decoration: none;
+    color: #FD256E;
+    background-color: transparent;
+    padding: 8px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #FD256E;
+}
+
+.Secondary:hover {
+    text-decoration: underline;
+}
+
+.Tertiary {
+    font-family: ClashDisplay-Medium;
+    text-decoration: none;
+    color: #0C385C;
+    font-size: 17px;
+}
+
+.Tertiary:hover {
+    text-decoration: underline;
+}
+
+.buttonContainer {
+    max-width: fit-content;
+}

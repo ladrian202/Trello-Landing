@@ -1,0 +1,12 @@
+body {
+margin: 0;
+max-width: 100%;
+}
+
+:root {
+line-height: 1.2;
+
+/* color-scheme: light dark; */
+background-color: #FFFFFF;
+}
+

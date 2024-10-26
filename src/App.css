@@ -1,0 +1,14 @@
+.navigationContainer {
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px 100px;
+}
+
+.principalContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}

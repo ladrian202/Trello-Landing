@@ -1,0 +1,16 @@
+.titleSpeech-container {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.titleSpeech {
+    color: #0C385C;
+    font-family: ClashDisplay-Regular;
+    overflow: hidden;
+}
+
+.titleSpeech .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
